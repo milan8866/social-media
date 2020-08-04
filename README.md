@@ -1,4 +1,9 @@
-This is the code base for the React app for my [Full Stack React & Firebase series](https://www.youtube.com/watch?v=RkBfu-W7tt0&list=PLMhAeHCz8S38ryyeMiBPPUnFAiWnoPvWP)
+#A Social Media Application
+> A full stack, fully-featured social media application using React, Firebase, Redux, Express, and Material-UI.
+
+# User-Interface
+
+![img](https://raw.githubusercontent.com/milan8866/social-media/master/image.png)
 
 ## 1: API Base URL
 
